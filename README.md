@@ -1,2 +1,1 @@
-# itp115project
-# diner final project
+#diner project python
